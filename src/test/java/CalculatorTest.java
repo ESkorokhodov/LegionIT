@@ -47,6 +47,7 @@ public class CalculatorTest {
                 Arguments.of(2,2,4, Calculator.Type. SUMMARY),
                 Arguments.of(4,2,2, Calculator.Type. DIVISION),
                 Arguments.of(2,2,4, Calculator.Type. MULTIPLICATION),
+                Arguments.of(5,2,3, Calculator.Type. SUBTRACTION),
                 Arguments.of(5,2,3, Calculator.Type. SUBTRACTION)
 
         );
